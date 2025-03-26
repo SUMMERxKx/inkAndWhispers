@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Ink drop -->
+    <path d="M20 10 C20 5, 25 0, 30 0 C35 0, 40 5, 40 10 C40 25, 30 45, 30 45 C30 45, 20 25, 20 10" 
+          fill="#64ffda" 
+          stroke="#64ffda" 
+          stroke-width="2">
+        <animate attributeName="d" 
+                 dur="3s" 
+                 repeatCount="indefinite"
+                 values="M20 10 C20 5, 25 0, 30 0 C35 0, 40 5, 40 10 C40 25, 30 45, 30 45 C30 45, 20 25, 20 10;
+                         M20 10 C20 5, 25 0, 30 0 C35 0, 40 5, 40 10 C40 25, 30 45, 30 45 C30 45, 20 25, 20 10;
+                         M20 10 C20 5, 25 0, 30 0 C35 0, 40 5, 40 10 C40 25, 30 45, 30 45 C30 45, 20 25, 20 10;
+                         M20 10 C20 5, 25 0, 30 0 C35 0, 40 5, 40 10 C40 25, 30 45, 30 45 C30 45, 20 25, 20 10"/>
+    </path>
+    
+    <!-- Text -->
+    <text x="60" y="35" 
+          font-family="Cormorant Garamond" 
+          font-size="24" 
+          fill="#64ffda" 
+          font-weight="600">
+        Inks and Whispers
+    </text>
+</svg> 
